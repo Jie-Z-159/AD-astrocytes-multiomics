@@ -5,7 +5,7 @@ packageVersion('Seurat')
 library(dplyr)
 library(patchwork)
 #load data
-snRNA<-readRDS("local.rds")
+snRNA<-readRDS("local.rds") #download from SEA-AD
 snRNA
 
 #ensemble convert to gene name------
