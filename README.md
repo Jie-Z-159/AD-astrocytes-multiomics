@@ -21,5 +21,5 @@ The WT group (control) brain sections are WT1, AD2 (WT group), and WT3, while th
 #### snRNA-seq analysis
 The snRNA-seq data utilized in this study were sourced from the Allen Institute for Brain Science and are available through 
 the Seattle Alzheimer’s Disease Brain Cell Atlas (SEA-AD) database (https://registry.opendata.aws/allen-sea-ad-atlas).  
-This dataset includes samples from the middle temporal gyrus (MTG) and dorsolateral prefrontal cortex (DLPFC). Donors were classified into four pathological stages based on Alzheimer’s Disease Neuropathologic Change (ADNC): Not AD, Low, Intermediate, and High. We selected data from donors categorized as “Not AD” and “Low.” Our analysis included a total of 21 donors: 9 from the Not AD group (5 females, 4 males) and 12 from the Low pathology group (7 females, 5 males). 
+For this study, data on astrocytes were obtained from 6 donors in the Thal 2 Aβ-deposition phase and 9 donors in the Thal 0 Aβ-deposition phase. All selected donors had no clinical diagnosis of dementia.
 
